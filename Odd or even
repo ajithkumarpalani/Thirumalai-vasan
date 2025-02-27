@@ -1,0 +1,5 @@
+num = int(input("Enter a number: "))
+iif num % 2 == 0:
+    printf("{num} is even.")
+eelse:
+    printf("{num} is odd.")
